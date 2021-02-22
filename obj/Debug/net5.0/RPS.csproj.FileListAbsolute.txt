@@ -1,0 +1,15 @@
+/Users/_kris/Desktop/Codeworks/RPS/obj/Debug/net5.0/RPS.csprojAssemblyReference.cache
+/Users/_kris/Desktop/Codeworks/RPS/obj/Debug/net5.0/RPS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/_kris/Desktop/Codeworks/RPS/obj/Debug/net5.0/RPS.AssemblyInfoInputs.cache
+/Users/_kris/Desktop/Codeworks/RPS/obj/Debug/net5.0/RPS.AssemblyInfo.cs
+/Users/_kris/Desktop/Codeworks/RPS/obj/Debug/net5.0/RPS.csproj.CoreCompileInputs.cache
+/Users/_kris/Desktop/Codeworks/RPS/bin/Debug/net5.0/RPS.deps.json
+/Users/_kris/Desktop/Codeworks/RPS/bin/Debug/net5.0/RPS.runtimeconfig.json
+/Users/_kris/Desktop/Codeworks/RPS/bin/Debug/net5.0/RPS.runtimeconfig.dev.json
+/Users/_kris/Desktop/Codeworks/RPS/bin/Debug/net5.0/RPS.dll
+/Users/_kris/Desktop/Codeworks/RPS/bin/Debug/net5.0/ref/RPS.dll
+/Users/_kris/Desktop/Codeworks/RPS/bin/Debug/net5.0/RPS.pdb
+/Users/_kris/Desktop/Codeworks/RPS/obj/Debug/net5.0/RPS.dll
+/Users/_kris/Desktop/Codeworks/RPS/obj/Debug/net5.0/ref/RPS.dll
+/Users/_kris/Desktop/Codeworks/RPS/obj/Debug/net5.0/RPS.pdb
+/Users/_kris/Desktop/Codeworks/RPS/obj/Debug/net5.0/RPS.genruntimeconfig.cache
